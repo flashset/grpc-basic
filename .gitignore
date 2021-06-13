@@ -1,0 +1,9 @@
+/DataStore.Server/.vs
+/DataStore.Server/bin
+/DataStore.Server/obj
+/DataStore.Extension/obj
+/DataStore.Extension/bin
+/DataStore.DataModel/obj
+/DataStore.DataModel/bin
+/DataStore.Client/obj
+/DataStore.Client/bin
